@@ -4,7 +4,6 @@
 
 This project consists of two main components:
 1. **Network Traffic Analysis**: Anomaly detection in network traffic using machine learning
-2. **Computer Vision Component**: Green object detection using OpenCV
 
 ## Features
 
